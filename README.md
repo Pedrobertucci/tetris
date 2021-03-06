@@ -2,6 +2,12 @@
 
 Sample project to create tetris game.
 
+<p align="center">
+  <img src="https://github.com/Pedrobertucci/tetris/blob/master/screenshots/image1.png" width="175" alt="">
+  <img src="https://github.com/Pedrobertucci/tetris/blob/master/screenshots/image2.png" width="175" alt="">
+  <img src="https://github.com/Pedrobertucci/tetris/blob/master/screenshots/image3.png" width="175" alt="">
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
